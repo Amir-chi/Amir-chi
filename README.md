@@ -1,4 +1,4 @@
-# Hi there, I'm Amirreza! 👋
+# Hi, I'm Amirreza! 👋
 
 ## 🚀 About Me
 I am a **Computer Engineering student** passionate about building efficient systems and bridging the gap between hardware and software. My expertise ranges from low-level systems programming to IoT and intelligent automation.
